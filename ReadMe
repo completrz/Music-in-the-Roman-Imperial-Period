@@ -5,3 +5,6 @@ A website I built in Webflow.
 # Link to website: 
 https://music-in-the-roman-imperial-period.webflow.io/
 
+# About
+- Displays 5 objects from the Roman Imperial Period that connect to roman music.
+- Uses GSAP for animations
